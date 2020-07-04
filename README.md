@@ -16,12 +16,12 @@ To run the code, sign up at ocean.pangeo.io using your ORCHID ID and upload the 
 
 ---------------------------------------------------------------------------------------------------------
 
-![Alt text](https://raw.githubusercontent.com/behzadasd/GoogleCloud_Hydrology_Analysis/master/CMIP6_precipitation_2.png)
+![Alt text](https://raw.githubusercontent.com/behzadasd/GoogleCloud_Hydrology_Analysis/master/Figures/CMIP6_precipitation_2.png)
 
 ---------------------------------------------------------------------------------------------------------
 
-![Alt text](https://raw.githubusercontent.com/behzadasd/GoogleCloud_Hydrology_Analysis/master/CMIP6_SST_1.png)
+![Alt text](https://raw.githubusercontent.com/behzadasd/GoogleCloud_Hydrology_Analysis/master/Figures/CMIP6_SST_1.png)
 
 ---------------------------------------------------------------------------------------------------------
 
-![Alt text](https://raw.githubusercontent.com/behzadasd/GoogleCloud_Hydrology_Analysis/master/CMIP6_Winds_1.png)
+![Alt text](https://raw.githubusercontent.com/behzadasd/GoogleCloud_Hydrology_Analysis/master/Figures/CMIP6_Winds_1.png)
