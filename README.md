@@ -8,7 +8,7 @@ To run the code, sign up at ocean.pangeo.io using your ORCHID ID and upload the 
 
 ---------------------------------------------------------------------------------------------------------
 * PANGEO Cloud Environment
-![Alt text](https://raw.githubusercontent.com/behzadasd/GoogleCloud_Hydrology_Analysis/master/PANGEO_env.png)
+![Alt text](https://raw.githubusercontent.com/behzadasd/GoogleCloud_Hydrology_Analysis/Figures/PANGEO_env.png)
 
 ---------------------------------------------------------------------------------------------------------
 
